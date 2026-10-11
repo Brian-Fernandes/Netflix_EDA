@@ -36,8 +36,6 @@ The objective is to identify patterns in the Netflix catalogue and investigate w
 
 The project uses the Netflix Movies and TV Shows dataset.
 
-**Dataset source:** Add the original dataset URL here.
-
 If the dataset is not included in this repository, download it from the source above and place the CSV in the `data/` directory before running the notebook.
 
 ## Main Findings
